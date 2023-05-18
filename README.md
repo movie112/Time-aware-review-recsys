@@ -7,4 +7,4 @@
   - digital music
   - yelp2013
 
-- word2vector.py -> load_data.py -> ssg_load.py -> attn_cal.py -> main.py
+- word2vector.py -> bert_whitening.py -> load_data.py -> ssg_load.py -> attn_cal.py -> main.py
